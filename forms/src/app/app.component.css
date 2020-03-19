@@ -1,0 +1,10 @@
+nav {
+  border-bottom: 1px solid var(--ravenclaw-blue);
+  text-align: center;
+  padding: auto;
+}
+
+h1 {
+  vertical-align: middle;
+}
+
